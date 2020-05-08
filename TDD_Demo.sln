@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_DAL", "TDD_DAL\TDD_DAL.csproj", "{94A0C4B1-FC05-4C6C-9976-05DD6CB3CB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Entities", "TDD_Entities\TDD_Entities.csproj", "{468BA813-DDC2-4050-A278-5978170A312C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_WebApi", "TDD_WebApi\TDD_WebApi.csproj", "{3765AE58-261A-4531-8811-62CDB914F226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A0C4B1-FC05-4C6C-9976-05DD6CB3CB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A0C4B1-FC05-4C6C-9976-05DD6CB3CB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A0C4B1-FC05-4C6C-9976-05DD6CB3CB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A0C4B1-FC05-4C6C-9976-05DD6CB3CB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468BA813-DDC2-4050-A278-5978170A312C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468BA813-DDC2-4050-A278-5978170A312C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468BA813-DDC2-4050-A278-5978170A312C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468BA813-DDC2-4050-A278-5978170A312C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3765AE58-261A-4531-8811-62CDB914F226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3765AE58-261A-4531-8811-62CDB914F226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3765AE58-261A-4531-8811-62CDB914F226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3765AE58-261A-4531-8811-62CDB914F226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E41CFB-76E2-4DEB-ABBF-E70409D480A9}
+	EndGlobalSection
+EndGlobal
